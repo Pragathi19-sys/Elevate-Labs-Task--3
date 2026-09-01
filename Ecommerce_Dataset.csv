@@ -1,0 +1,8 @@
+CustomerID,CustomerName,City,OrderID,OrderDate,TotalAmount,ProductName,Category,Price,Quantity
+1,Pragathi,Hyderabad,1001,2024-01-15,67500,Laptop,Electronics,65000,1
+1,Pragathi,Hyderabad,1001,2024-01-15,67500,Headphones,Electronics,2500,1
+2,Rahul,Mumbai,1002,2024-02-10,30000,Smartphone,Electronics,30000,1
+1,Pragathi,Hyderabad,1003,2024-03-05,4700,Headphones,Electronics,2500,1
+1,Pragathi,Hyderabad,1003,2024-03-05,4700,T-Shirt,Fashion,1200,2
+3,Anjali,Delhi,1004,2024-03-20,3500,Shoes,Fashion,3500,1
+4,Vikram,Bangalore,1005,2024-04-01,65000,Laptop,Electronics,65000,1
